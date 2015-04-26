@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasyTalk</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message">消息</string>
+    <string name="contacts">联系人</string>
+    <string name="news">动态</string>
+    <string name="settings">设置</string>
+
+</resources>
